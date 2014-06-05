@@ -1,0 +1,5 @@
+*.swp
+boost_*
+include
+test.*
+*.obj
